@@ -1,5 +1,0 @@
-node.js C:\Program Files\nodejs\;
-mongodb C:\Program Files\MongoDB\Server\4.2\bin
-npm C:\Users\Administrator\AppData\Roaming\npm
-
-打开项目，在终端里使用 npm install 命令 自动安装模块。
